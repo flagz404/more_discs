@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "fan.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "?"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "18.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "?"
+            ]
+        }
+    ]
+}

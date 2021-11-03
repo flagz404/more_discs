@@ -1,0 +1,119 @@
+{
+  "bedrock": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:beneath-the-bedrock-theme-of-the-deep-dark_original-song_",
+        "stream": true
+      }
+    ]
+  },
+  "deepslate": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:deepstate_-_fanmade_minecraft_music_disc",
+        "stream": true
+      }
+    ]
+  },
+  "fortstress": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:fan-made-minecraft-disc-fort-stress",
+        "stream": true
+      }
+    ]
+  },
+  "goldie": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:goldie",
+        "stream": true
+      }
+    ]
+  },
+  "carrot": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:i_made_a_custom_music_disc_in_minecraft.",
+        "stream": true
+      }
+    ]
+  },
+  "otherside": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:lena-raine-otherside-_minecraft-1.18-music-disc_",
+        "stream": true
+      }
+    ]
+  },
+  "lush": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:lush-fan-made-minecraft-music-disc",
+        "stream": true
+      }
+    ]
+  },
+  "anti": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:minecraft_ust_-_anti_end_music_disc_concept",
+        "stream": true
+      }
+    ]
+  },
+  "weird": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:minecraft_ust_-_weird_realm_end_music_disc_concept",
+        "stream": true
+      }
+    ]
+  },
+  "tall": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:minecraft_ust-_tall_end_music_disc_concept",
+        "stream": true
+      }
+    ]
+  },
+  "birchbop": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:my_fanmade_minecraft_music_disc-_birch_bop",
+        "stream": true
+      }
+    ]
+  },
+  "pigstepelectroswing": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:pigstep__electro_swing_",
+        "stream": true
+      }
+    ]
+  },
+  "storm": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_disc:storm",
+        "stream": true
+      }
+    ]
+  }
+}
